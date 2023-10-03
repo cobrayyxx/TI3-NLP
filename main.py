@@ -9,7 +9,7 @@ import time
 
 """ 
 TODO: Hitung akurasi dan Run-Time dari semua algoritma yang sudah disediakan, seperti 
-LevenshteinTrie, DamerauLevenshteinTrie, LevenshteinList, dan DamerauLevenshteinList. 
+LevenshteinTrie, DamerauLevenshteinTrie, LevenshteinDict, dan DamerauLevenshteinDict. 
 Gunakan SALTIK (https://github.com/ir-nlp-csui/saltik) sebagai dataset 
 dan atur parameter MAX_COST untuk setiap algoritma sebesar 2 ketika memanggil 
 fungsi untuk pengambilan kandidat.

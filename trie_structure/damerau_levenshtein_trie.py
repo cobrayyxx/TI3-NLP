@@ -83,3 +83,5 @@ class DamerauLevenshteinTrie:
         
         return candidate_words
 
+    def __str__(self) -> str:
+        return "Damerau Levenshtein Trie"

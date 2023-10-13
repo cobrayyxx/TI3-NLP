@@ -62,3 +62,6 @@ class LevenshteinTrie:
         candidate_words = [candidate[0] for candidate in sorted_candidates]
         
         return candidate_words
+    
+    def __str__(self) -> str:
+        return "Levenshtein Trie"
